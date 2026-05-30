@@ -1,6 +1,0 @@
-{
-  "name": "Professionalism: Skills for Workplace Success Study Companion",
-  "description": "A comprehensive, interactive study guide, quiz simulator, and summary document generator for the Professionalism: Skills for Workplace Success textbook.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
